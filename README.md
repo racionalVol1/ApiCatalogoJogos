@@ -29,5 +29,5 @@ ORM: Entity Framework Core
 
 Padrões: Repository Pattern, Dependency Injection
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 Desenvolvido por Guilherme Perondi
